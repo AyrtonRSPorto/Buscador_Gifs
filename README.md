@@ -1,17 +1,12 @@
 # buscador_gifs
 
-A new Flutter project.
+<hr/>
 
-## Getting Started
+# Sobre:
+- App para buscar gifs.<br>
+- Para este projeto eu utilizei a propria API do Giphy para fazer as requisições
 
-This project is a starting point for a Flutter application.
+# Imagens:
+![Captura de Tela 2021-07-26 às 17 03 21](https://user-images.githubusercontent.com/76439349/127051903-a4a4339a-3f36-4b2f-a9ce-26b59c206f1c.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Buscador_Gifs
+![Captura de Tela 2021-07-26 às 17 03 51](https://user-images.githubusercontent.com/76439349/127051920-fdd32e63-c570-4759-be2d-856ea14e2f37.png)
